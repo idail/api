@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "Iphone 15",
+      "valor": 7000
+    },
+    {
+      "id": "2",
+      "produto": "Galaxy S23",
+      "valor": 5500
+    },
+    {
+      "id": "3",
+      "produto": "Redmi Note 12",
+      "valor": 1600
+    },
+    {
+      "id": "4",
+      "produto": "Tenis",
+      "valor": 25
+    },
+    {
+      "id": "5",
+      "produto": "Samsung Galaxy S8+",
+      "valor": 2000
+    }
+  ]
+}
